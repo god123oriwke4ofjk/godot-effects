@@ -2,8 +2,10 @@
 a bunch of cool godot effects and shaders for godot
 
 
+
+
 ## dither
-inspired from this cool effect i saw on reactbits [dither](https://reactbits.dev/backgrounds/dither)
+inspired from this cool effect i saw on [reactbits](https://reactbits.dev/backgrounds/dither)
 
 [live demo](https://l-kot.itch.io/godot-dither-effect)
 
